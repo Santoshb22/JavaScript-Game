@@ -86,5 +86,6 @@ console.log(scoreBoard)
 scorePrint.innerHTML = `Winner: <b>${scoreBoard.win}</b> Tie: <b>${scoreBoard.tie}</b>  Losses: <b>${scoreBoard.losses}</b>`
 }
 
+//show score on page 
 scorePrint.innerHTML = `Winner: <b>${scoreBoard.win}</b> Tie: <b>${scoreBoard.tie}</b>  Losses: <b>${scoreBoard.losses}</b>`
 
